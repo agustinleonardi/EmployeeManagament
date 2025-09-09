@@ -1,0 +1,11 @@
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Domain/bin/Debug/net8.0/EmployeeManagement.Domain.deps.json
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Domain/bin/Debug/net8.0/EmployeeManagement.Domain.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Domain/bin/Debug/net8.0/EmployeeManagement.Domain.pdb
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Domain/obj/Debug/net8.0/EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Domain/obj/Debug/net8.0/EmployeeManagement.Domain.AssemblyInfoInputs.cache
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Domain/obj/Debug/net8.0/EmployeeManagement.Domain.AssemblyInfo.cs
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Domain/obj/Debug/net8.0/EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Domain/obj/Debug/net8.0/EmployeeManagement.Domain.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Domain/obj/Debug/net8.0/refint/EmployeeManagement.Domain.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Domain/obj/Debug/net8.0/EmployeeManagement.Domain.pdb
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Domain/obj/Debug/net8.0/ref/EmployeeManagement.Domain.dll

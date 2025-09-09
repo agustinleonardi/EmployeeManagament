@@ -1,0 +1,17 @@
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/bin/Debug/net8.0/EmployeeManagement.Infrastructure.deps.json
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/bin/Debug/net8.0/EmployeeManagement.Infrastructure.runtimeconfig.json
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/bin/Debug/net8.0/EmployeeManagement.Infrastructure.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/bin/Debug/net8.0/EmployeeManagement.Infrastructure.pdb
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/bin/Debug/net8.0/EmployeeManagement.Domain.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/bin/Debug/net8.0/EmployeeManagement.Domain.pdb
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/obj/Debug/net8.0/EmployeeManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/obj/Debug/net8.0/EmployeeManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/obj/Debug/net8.0/EmployeeManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/obj/Debug/net8.0/EmployeeManagement.Infrastructure.AssemblyInfo.cs
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/obj/Debug/net8.0/EmployeeManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/obj/Debug/net8.0/Employee.66F3489C.Up2Date
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/obj/Debug/net8.0/EmployeeManagement.Infrastructure.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/obj/Debug/net8.0/refint/EmployeeManagement.Infrastructure.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/obj/Debug/net8.0/EmployeeManagement.Infrastructure.pdb
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/obj/Debug/net8.0/EmployeeManagement.Infrastructure.genruntimeconfig.cache
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Infrastructure/obj/Debug/net8.0/ref/EmployeeManagement.Infrastructure.dll

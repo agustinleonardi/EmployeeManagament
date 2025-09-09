@@ -1,0 +1,15 @@
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/bin/Debug/net8.0/EmployeeManagement.Application.deps.json
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/bin/Debug/net8.0/EmployeeManagement.Application.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/bin/Debug/net8.0/EmployeeManagement.Application.pdb
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/bin/Debug/net8.0/EmployeeManagement.Domain.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/bin/Debug/net8.0/EmployeeManagement.Domain.pdb
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/EmployeeManagement.Application.csproj.AssemblyReference.cache
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/EmployeeManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/EmployeeManagement.Application.AssemblyInfoInputs.cache
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/EmployeeManagement.Application.AssemblyInfo.cs
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/EmployeeManagement.Application.csproj.CoreCompileInputs.cache
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/Employee.16DA35CB.Up2Date
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/EmployeeManagement.Application.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/refint/EmployeeManagement.Application.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/EmployeeManagement.Application.pdb
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/ref/EmployeeManagement.Application.dll
