@@ -27,3 +27,10 @@ jobs:
 
       - name: Test
         run: dotnet test --no-build --configuration Release
+
+      - name: SonarCloud Scan
+        uses: SonarSource/sonarcloud-github-action@master
+        with:
+          projectKey: agustinleonardi_EmployeeManagament
+          organization: agustinleonardi
+          token: ${{ secrets.SONAR_TOKEN }}

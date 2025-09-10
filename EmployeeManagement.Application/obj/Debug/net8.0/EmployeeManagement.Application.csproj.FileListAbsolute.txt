@@ -13,3 +13,4 @@
 /Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/refint/EmployeeManagement.Application.dll
 /Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/EmployeeManagement.Application.pdb
 /Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/ref/EmployeeManagement.Application.dll
+/Users/agustinleonardi/Desktop/Proyectos_Agu/proyecto-microservicios/EmployeeManagement.Application/obj/Debug/net8.0/EmployeeManagement.Application.sourcelink.json
