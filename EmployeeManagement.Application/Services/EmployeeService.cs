@@ -14,7 +14,7 @@ namespace EmployeeManagement.Application.Services
 
         public EmployeeService(IEmployeeRepository employeeRepository)
         {
-            _employeeRepository = employeeRepository;
+            _employeeRepository = employeeRepository
         }
 
         public async Task<IEnumerable<Employee>> GetAllEmployeesAsync()
